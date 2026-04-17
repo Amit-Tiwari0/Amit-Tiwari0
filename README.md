@@ -18,9 +18,8 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,c,react,php,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,git,mysql,c,java,react,php" />
 </p>
-
 ---
 
 ## 💼 Experience
