@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/amit-tiwari-6b2a4b3b0">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/amittiwari998454">
+  <a href="https://www.instagram.com/i__amit_tiwari/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:amittiwari227817@gmail.com">
